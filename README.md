@@ -14,4 +14,4 @@
 
     "scripts": { "test": "jest" }
 
- 4. After writing some tests, you can run them with the `npm test` command
+ 4. Run tests with `npm test` command
